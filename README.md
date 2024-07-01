@@ -27,7 +27,6 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
 
 
 <p align="center">
