@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **NashTech**
 
- ⚡ Fun fact **Lionel Messi is GOAL**
+ ⚡ Fun fact **"Lionel Messi is GOAL"**
  
  </div>
 
