@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi everyone 
+ - I am a software engineering
 
 <!--
 **hieumt24/hieumt24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
