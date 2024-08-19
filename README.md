@@ -23,6 +23,10 @@
   <a href="mailto:hieumt24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+   <a href="https://www.linkedin.com/in/hi%E1%BA%BFu-mai-tr%E1%BB%8Dng-4169ba322/">
+    <img src="https://img.shields.io/badge/Linkedin-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+  </a>
+    
  <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
