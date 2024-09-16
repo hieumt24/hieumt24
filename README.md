@@ -11,9 +11,9 @@
 
 <div align="center">
 
- 🌍 I'm based in Vietnamese 
+ 🌍 I'm based in Ha Noi, Viet Nam
  
- 🔭 I’m currently working on **NashTech**
+ 🔭 I’m currently working for **NashTech**
 
  ⚡ Fun fact **"Lionel Messi is GOAL"**
  
