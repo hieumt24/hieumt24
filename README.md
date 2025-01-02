@@ -56,6 +56,9 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/hieumt24/hieumt24/output/snake.svg" />
 </picture>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hieumt24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <hr/>
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
