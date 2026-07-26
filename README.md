@@ -1,79 +1,148 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Trong+Hieu!;" />
-</h1>
+<div align="center">
 
-<h3 align="center">I'm a Software Engineer</h3>
+# Hi, I'm Trong Hieu
 
-<br/>
+### Backend Software Engineer · ASP.NET Core · Clean Architecture
+
+I build reliable, maintainable, and scalable backend systems with the .NET ecosystem.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trong_Hieu-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieu-mai-trong-4169ba322/)
+[![Email](https://img.shields.io/badge/Email-hieumt0204%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hieumt0204@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=hieumt24&style=flat-square&color=512BD4&label=Profile+views)](https://github.com/hieumt24)
+
+</div>
+
+---
+
+## About me
+
+I'm a Software Engineer based in **Ha Noi, Viet Nam**, currently working at **NashTech**.
+
+My main focus is backend development with **C# and ASP.NET Core**, from designing clean APIs and business domains to working with databases, authentication, testing, and deployment.
+
+- Building RESTful APIs and backend services with ASP.NET Core
+- Applying Clean Architecture, SOLID principles, and domain-driven design
+- Designing maintainable data access layers with Entity Framework Core
+- Writing testable code and improving system reliability
+- Exploring distributed systems, performance optimization, and cloud-native development
+
+## Backend expertise
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Application Development</h3>
+      <ul>
+        <li>ASP.NET Core Web API</li>
+        <li>C# and modern .NET</li>
+        <li>RESTful API design</li>
+        <li>Authentication and authorization</li>
+        <li>Background processing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Architecture & Quality</h3>
+      <ul>
+        <li>Clean Architecture</li>
+        <li>Domain-Driven Design</li>
+        <li>CQRS and Mediator patterns</li>
+        <li>SOLID and design patterns</li>
+        <li>Unit and integration testing</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Data & Integration</h3>
+      <ul>
+        <li>Entity Framework Core</li>
+        <li>SQL Server and MySQL</li>
+        <li>Database modeling and migrations</li>
+        <li>Caching and asynchronous messaging</li>
+        <li>Third-party API integration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Engineering Workflow</h3>
+      <ul>
+        <li>Git and GitHub</li>
+        <li>Docker</li>
+        <li>CI/CD fundamentals</li>
+        <li>Swagger / OpenAPI</li>
+        <li>Postman and API testing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## Technology stack
 
 <div align="center">
 
- 🌍 I'm based in Ha Noi, Viet Nam
- 
- 🔭 I’m currently working for **NashTech**
+#### Core backend
 
- ⚡ Fun fact **"Lionel Messi is GOAL"**
- 
- </div>
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet&theme=dark)](https://skillicons.dev)
 
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieumt24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hieumt24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages" />
+#### Data, infrastructure & tools
+
+[![Infrastructure](https://skillicons.dev/icons?i=mysql,docker,git,github,gitlab,postman&theme=dark)](https://skillicons.dev)
+
+#### Frontend familiarity
+
+[![Frontend](https://skillicons.dev/icons?i=ts,js,angular,react,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
 </div>
 
+## Engineering principles
 
-<div align="center"> 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hieumt0204@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-   <a href="https://www.linkedin.com/in/hieu-mai-trong-4169ba322/">
-    <img src="https://img.shields.io/badge/Linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=blue" />
-  </a>
-    
- <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+```text
+Simple over clever        Clear boundaries        Explicit business rules
+Test what matters         Measure before tuning   Improve continuously
+```
 
+> Good backend engineering is not only about making an API work. It is about making the system easy to understand, safe to change, and ready to grow.
 
+## GitHub activity
 
-<p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
-</p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,java,c,javascript,github,gitlab" /><br>
-  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,bootstrap,mysql,html,css,tailwind,vscode,git,postman" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hieumt24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=hieumt24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default&rank_icon=github"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=hieumt24&show_icons=true&hide_border=true" alt="Trong Hieu's GitHub statistics" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumt24&layout=compact&langs_count=6&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumt24&layout=compact&langs_count=6&hide_border=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumt24&layout=compact&langs_count=6&hide_border=true" alt="Trong Hieu's most used languages" />
+  </picture>
 </div>
-  <br/><br/><br/>
-<hr/>
-<br>
-<h3 align="left">📈 My Commit Stats</h3>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieumt24/hieumt24/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieumt24/hieumt24/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/hieumt24/hieumt24/output/snake.svg" />
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/hieumt24/hieumt24/output/github-snake.svg" />
 </picture>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hieumt24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-<hr/>
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
-<div align=center>
-     <a href="#" title="hieumt24">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumt24&hide=csharp,powershell,Mathematica,Cs,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="hieumt24">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=hieumt24&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
+<div align="center">
+
+### Let's connect
+
+I'm open to discussing backend engineering, the .NET ecosystem, and opportunities to build meaningful software.
+
+[LinkedIn](https://www.linkedin.com/in/hieu-mai-trong-4169ba322/) · [Email](mailto:hieumt0204@gmail.com) · [GitHub](https://github.com/hieumt24)
+
 </div>
-
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
